@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js",
+   "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahtiyorovich/nodejs-weather-app.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahtiyorovich/nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/Bahtiyorovich/nodejs-weather-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
